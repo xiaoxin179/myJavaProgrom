@@ -25,6 +25,7 @@ public class SwingInput {
         frame.setLocationRelativeTo(null);  //设置窗体中组件的位置
 
         frame.setVisible(true);
+        System.out.println("第二次提交代码");
 
     }
 
@@ -85,6 +86,7 @@ public class SwingInput {
         frame.getContentPane().add(panel, BorderLayout.CENTER);
 
     }
+
 
 }
 

@@ -55,6 +55,7 @@ public class SwingLog {
 
         System.out.println(username);
         System.out.println(pwd);
+        System.out.println();
 
 
     }
