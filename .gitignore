@@ -1,0 +1,40 @@
+# 项目排除路径
+/out/
+*class
+*log
+*lock
+
+#Package Files#
+*.jar
+*.war
+*.ear
+target/
+
+
+ #idea
+ .idea/
+ *.iml
+
+ *velocity.log*
+
+ ### STS ###
+ .apt_generated
+ .factorypath
+ .springBrans
+
+ ### Intellij IDEA ###
+
+ *ipr
+ *.iws
+ .idea
+ .classpath
+ .project
+ .settings/
+ bin/
+
+
+ tem/
+  #rebel
+  *rebel.xml*
+
+
